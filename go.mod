@@ -11,7 +11,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/common v0.61.0
-	github.com/spf13/pflag v1.0.6-0.20201009195203-85dd5c8bc61c
+	github.com/spf13/pflag v1.0.9
 	github.com/stretchr/testify v1.10.0
 	github.com/unpoller/unifi/v5 v5.0.4
 	golang.org/x/crypto v0.31.0
