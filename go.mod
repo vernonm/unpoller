@@ -1,8 +1,6 @@
 module github.com/unpoller/unpoller
 
-go 1.23
-
-toolchain go1.23.4
+go 1.24
 
 require (
 	github.com/DataDog/datadog-go/v5 v5.6.0
@@ -12,12 +10,12 @@ require (
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/common v0.61.0
 	github.com/spf13/pflag v1.0.6-0.20201009195203-85dd5c8bc61c
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/unpoller/unifi/v5 v5.0.4
 	golang.org/x/crypto v0.31.0
 	golang.org/x/net v0.33.0
 	golang.org/x/term v0.27.0
-	golift.io/cnfg v0.2.3
+	golift.io/cnfg v0.2.5
 	golift.io/cnfgfile v0.0.0-20240713024420-a5436d84eb48
 	golift.io/version v0.0.2
 	gopkg.in/yaml.v3 v3.0.1
